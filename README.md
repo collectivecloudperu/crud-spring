@@ -2,6 +2,5 @@
 
 Tutorial: https://blog.nubecolectiva.com/como-crear-un-crud-con-spring-framework-5-2-13-y-bootstrap-4-6-parte-1/ 
 
-<img src="https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png](https://raw.githubusercontent.com/collectivecloudperu/crud-spring/main/f2.png)https://raw.githubusercontent.com/collectivecloudperu/crud-spring/main/f2.png" alt="CRUD" />
-
+![CRUD](https://raw.githubusercontent.com/collectivecloudperu/crud-spring/main/f2.png)
  
